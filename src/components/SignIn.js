@@ -35,10 +35,10 @@ function SignIn() {
                 placeholder="Password"
                 required
               />
-              {/* <div className="flex gap-5 mt-1">
+              <div className="flex gap-5 mt-1">
                 <input type="checkbox" />
                 <p>Remember me</p>
-              </div> */}
+              </div>
 
               <div className="">
                 <button className="bg-red-400 w-full text-white font-semibold h-10 rounded-full hover:bg-red-600 ">Log in</button>
